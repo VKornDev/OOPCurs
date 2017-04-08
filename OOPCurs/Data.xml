@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EquipmentData>
+  <Equipment>
+    <Name>Sennheiser CX 200 Street II</Name>
+    <Date>07.04.17</Date>
+    <Fixed>False</Fixed>
+  </Equipment>
+  <Equipment>
+    <Name>Apple EarPods</Name>
+    <Date>05.04.17</Date>
+    <Fixed>True</Fixed>
+  </Equipment>
+  <Equipment>
+    <Name>Panasonic RP-HJE118</Name>
+    <Date>20.03.17</Date>
+    <Fixed>False</Fixed>
+  </Equipment>
+  <Equipment>
+    <Name>Beats Solo2 Wireless</Name>
+    <Date>15.02.17</Date>
+    <Fixed>True</Fixed>
+  </Equipment>
+</EquipmentData>
